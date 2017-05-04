@@ -12,4 +12,4 @@ form to submit inquiries. The gallery page will have a portfolio of some of thei
 work and maybe some photos of them working. The photos will be split into categories
 of what kind of work--furniture, kitchens, etc. but that will most likely be if I have time.
 
-[Image of Site Plan](341-final/images/site-plan.JPG)
+[Image of Site Plan](./images/site-plan.JPG)
