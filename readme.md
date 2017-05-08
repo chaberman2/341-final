@@ -13,3 +13,20 @@ work and maybe some photos of them working. The photos will be split into catego
 of what kind of work--furniture, kitchens, etc. but that will most likely be if I have time.
 
 [Image of Site Plan](./images/site-plan.JPG)
+
+## Wireframe and Design
+I managed to use an online mockup tool to create some wireframes of what the
+general look of the site will be. The site will be a minimalist design with very simple
+colors, fonts and layouts. Because of the nature of the business, I will utilize black and white,
+earth tones and wood grain images for textures. Each page will have the same heading/menu bar (sticky)
+and the site open on a sort of entry page.
+
+[Mockup of Splash Page](./wireframes/homesplash.png)
+[Home Page](./wireframes/home2.png)
+[About Page 1](./wireframes/about1.png)
+[About Page 2](./wireframes/about2.png)
+[About Page 3](./wireframes/about3.png)
+[Contact Page 1](./wireframes/contact1.png)
+[Contact Page 2](./wireframes/contact2.png)
+[Gallery Page 1](./wireframes/gallery1.png)
+[Gallery Page 2](./wireframes/gallery2.png)
