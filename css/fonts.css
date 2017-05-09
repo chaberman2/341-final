@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'Quicksand';
+  src:
+  url(../fonts/Quicksand-Bold.ttf) format('truetype');
+  font-weight: bolder;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src:
+  url(../fonts/Quicksand-Medium.ttf) format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src:
+  url(../fonts/Quicksand-Regular.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src:
+  url(../fonts/Quicksand-Light.ttf) format('truetype');
+  font-weight: lighter;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'bamboo gothic';
+  src:
+  url(../fonts/BambooGothic-Book.ttf) format('truetype');
+}
