@@ -12,45 +12,35 @@
     <link rel="shortcut icon" type="image/x-icon" href="./images/favicon.ico">
     <link rel="stylesheet" href="./css/fonts.css">
     <link rel="stylesheet" href="./css/header.css">
-    <link rel="" href="">
+    <link rel="stylesheet" href="./css/main.css">
       <title>FSC Contact</title>
 </head>
 
-<div id="fb-root"></div>
-<script>
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
-    fjs.parentNode.insertBefore(js, fjs);
-  }
-  (document, 'script', 'facebook-jssdk'));
-</script>
 
 <body>
-
-  <header>
-    <div class="header-text">
+  <div class="main-container">
+    <header>
+      <div class="header-text">
         <center>
-      <h1>FOREST STREET CARPENTRY</h1>
-    </div>
+          <h1>FOREST STREET CARPENTRY</h1>
+      </div>
 
         <menu class="menu-container">
           <a href="./home.html" class="menuitem">
             HOME</a>
           <a href="./about.html" class="menuitem">
             ABOUT</a>
-
+        </menu>
             <img src="./images/FSC-logo-trans.png" alt="FSC Logo" width="10%" height="10%" />
 
+        <menu class="menu-container">
           <a href="./contact.html" class="menuitem">
             CONTACT</a>
           <a href="./gallery.html" class="menuitem">
             GALLERY</a>
           </center>
         </menu>
-
+      </header>
       <hr />
         <div class="contact-info">
           <div class="google-map">
@@ -61,10 +51,13 @@
             <p>Phone</p>
             <p>(207) 332-3173</p>
             <p>(207) 659-3597</p>
+
             <p>Address</p>
+          <address>
             <p>25 Forest St.</p>
             <p>Portland, Maine</p>
             <p>04102</p>
+          </address>
         </span>
             <span class="social-media">
               <a href="https://www.instagram.com/fscarpentry/" target="_blank">
@@ -76,20 +69,39 @@
                   height="2%">
               </a>
             </span>
+          </div>
           <hr />
-      <form action="https://formspree.io/cathryn.haberman@gmail.com"
-        method="POST">
-          <label>
-          Name:
-            <input type="text" name="name">
-          </label>
-          <label>
-          Message:
-            <input type="text" name="message">
-          </label>
-          <label>
-          Email:
-            <input type="email" name="_replyto">
-          </label>
-            <input type="submit" value="Send">
-      </form>
+    <div class="contact-form">
+      <form action="https://formspree.io/cathryn.haberman@gmail.com" method="POST">
+        <fieldset>
+          <legend>Interested in our work at Forest Street Carpentry?</legend>
+            <label>
+              Name:
+              <br />
+              <input type="text" name="name" placeholder="John Doe"><br />
+            </label>
+            <label>
+              Message:
+              <br />
+              <textarea name="message" cols="50" rows="15">
+            </textarea><br />
+            </label>
+              I'm looking for:<br />
+                <input type="radio" name="work-type" value="furniture" />Furniture<br />
+                <input type="radio" name="work-type" value="remodeling" />Remodeling<br />
+                <input type="radio" name="work-type" value="art" />Art<br />
+                <input type="radio" name="work-type" value="other" />Other:
+                  <input type="text" name="other" />
+              <br />
+            <label>
+              Email:<br />
+                <input type="email" name="_replyto" placeholder="example@email.com"><br />
+                  </label>
+                    <input type="submit" value="Send">
+            </fieldset>
+          </form>
+        </div>
+      </div>
+  
+  </body>
+</html>

@@ -1,0 +1,13 @@
+body html {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.main-container {
+  background-image: url("../images/Wood-Slats.jpg");
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+  position: relative;
+}
