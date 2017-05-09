@@ -18,3 +18,52 @@ body html {
   border: 5px inset #000000;
 
 }
+
+.main-body {
+  font-family: "Quicksand";
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 15pt;
+  color: #E1EDD8;
+}
+
+.Nolan-bio {
+  font-family: "Quicksand";
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 15pt;
+  color: #E1EDD8;
+}
+
+.Matt-bio {
+  font-family: "Quicksand";
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 15pt;
+  color: #E1EDD8;
+}
+
+
+.about-end {
+  font-family: "Quicksand";
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 15pt;
+  color: #E1EDD8;
+}
+
+.contact-form {
+  font-family: "Quicksand";
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 15pt;
+  color: #E1EDD8;
+}
+
+.contact-specs {
+  font-family: "Quicksand";
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 15pt;
+  color: #E1EDD8;
+}
