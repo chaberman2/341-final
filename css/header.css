@@ -1,15 +1,14 @@
 .header-text {
   font-family: "bamboo gothic", "palatino linotype", serif;
-  color: #60412B;
+  color: #CFB97F;
   font-size: 22pt;
 }
 
 .menu-container {
-  background-color: #3C455C;
+  background-color: #A8BFAA;
 }
 
 .header-text {
-  background-color: #3C455C;
   padding: 0;
   margin: 0;
 }

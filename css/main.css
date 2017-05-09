@@ -5,9 +5,16 @@ body html {
 }
 
 .main-container {
-  background-image: url("../images/Wood-Slats.jpg");
+  background-image: url("../images/Texture1.jpg");
   background-position: center;
   background-repeat: repeat-y;
   background-size: cover;
   position: relative;
+}
+
+.main-container {
+  padding: 4px;
+  margin: 0;
+  border: 5px inset #000000;
+
 }
