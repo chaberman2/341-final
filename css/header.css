@@ -1,6 +1,6 @@
 .header {
   font-family: 'bamboo gothic', 'palatino linotype', serif;
-  font-size: 40pt;
+  font-size: 4em;
   color: #ffffff;
   text-align: center;
   line-height: .2em;
@@ -8,7 +8,7 @@
 }
 
 .navigation {
-  font-size: 12pt;
+  font-size: 1em;
   font-family: 'Quicksand', 'lucida grande', sans-serif;
   font-weight: normal;
   color: #FFFFFF;
@@ -19,7 +19,7 @@
 }
 
 ul {
-  width: 570px;
+  width: 100%;
   min-width: 20%;
   padding: 15px;
   margin: 0px auto 0px auto;
