@@ -1,24 +1,14 @@
-body html {
-  height: 100%;
-  padding: 0;
-  margin: 0;
+body {
+  background-image: url(../images/Texture1.jpg);
 }
 
 .main-container {
-  background-image: url("../images/Texture1.jpg");
-  background-position: center;
-  background-repeat: repeat-y;
-  background-size: cover;
-  position: relative;
+  max-width: 940px;
+  min-width: 720px;
+  margin: 10px auto 10px auto;
+  padding: 20px;
+  border: 4px double #000;
 }
-
-.main-container {
-  padding: 4px;
-  margin: 0;
-  border: 5px inset #000000;
-
-}
-
 .main-body {
   font-family: "Quicksand";
   font-weight: bold;

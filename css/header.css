@@ -1,14 +1,45 @@
-.header-text {
-  font-family: "bamboo gothic", "palatino linotype", serif;
-  color: #CFB97F;
-  font-size: 22pt;
+.header {
+  font-family: 'bamboo gothic', "palatino linotype", serif;
+  font-size: 40pt;
+  color: #ffffff;
+  text-align: center;
+  line-height: .2em;
+  letter-spacing: .3em;
 }
 
-.menu-container {
-  background-color: #88A6BB;
+.navigation {
+  font-size: 12pt;
+  font-family: 'Quicksand';
+  font-weight: normal;
 }
 
-.header-text {
-  padding: 0;
-  margin: 0;
+.logo {
+  margin: 10px auto 25px auto;
+}
+
+ul {
+  width: 570px;
+  padding: 15px;
+  margin: 0px auto 0px auto;
+  border-top: 1px double #000;
+  border-bottom: 1px double #000;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  margin: 0px 3px;
+  text-align: center;
+}
+
+a {
+  color: #FFFFFF;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 6px 18px 5px 18px;
+}
+
+a:hover {
+  color: #DDE2E3;
+  background-color:#3C455C;
 }
