@@ -7,6 +7,11 @@
   letter-spacing: .3em;
 }
 
+.header {
+  word-wrap: break-word;
+  hyphens: auto;
+}
+
 .navigation {
   font-size: 1em;
   font-family: 'Quicksand', 'lucida grande', sans-serif;
