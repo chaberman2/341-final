@@ -14,7 +14,14 @@ body {
   font-weight: bold;
   font-style: normal;
   font-size: 15pt;
-  color: #E1EDD8;
+  color: #ffffff;
+}
+
+.main-body {
+  background-color: #8b8b8b;
+  border: 2px solid black;
+  text-align: center;
+  padding-bottom: 1em;
 }
 
 .Nolan-bio {
@@ -40,11 +47,6 @@ body {
   font-style: normal;
   font-size: 15pt;
   color: #E1EDD8;
-}
-
-button {
-  width: 50%;
-  height: 50%;
 }
 
 @media only screen and (max-width: 700px) {
