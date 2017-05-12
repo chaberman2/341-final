@@ -30,3 +30,14 @@ and the site open on a sort of entry page.
 [Contact Page 2](./wireframes/contact2.png)
 [Gallery Page 1](./wireframes/gallery1.png)
 [Gallery Page 2](./wireframes/gallery2.png)
+
+## Finished Product
+This final project-- and this class-- were truly a pleasure! I really enjoyed being
+able to exercise all of my creativity for this project and be able to see the progress
+I've made come together in one site. It's heartening to know that I can build a functional,
+interactive and aethetically pleasing site with the knowledge I'm walking away from this
+course with. It was definitely a struggle at times. I spent probably 30 hours total
+on the design, coding and styling for my site. There were times when I spent probably
+far too much time focusing on one tiny detail, but those were the most satisying to see come to
+fruition. It feels good to finally be done with the project, but I hope to continue to use my
+web dev skills later on! 
