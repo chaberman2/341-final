@@ -83,6 +83,13 @@ button {
     }
 
 @media only screen and (max-width: 700px) {
+    fieldset {
+        width: 75%;
+        margin: 6px 0;
+      }
+    }
+
+@media only screen and (max-width: 700px) {
     .gallery {
         width: 75%;
         margin: 6px 0;
@@ -116,6 +123,12 @@ button {
 
 @media only screen and (max-width: 500px) {
     .contact-info {
+        width: 60%;
+    }
+  }
+
+@media only screen and (max-width: 500px) {
+    fieldset {
         width: 60%;
     }
   }
@@ -155,6 +168,13 @@ button {
 
  @media only screen and (max-width: 320px) {
    .contact-info {
+     width: 30%;
+     display: inline;
+   }
+ }
+
+ @media only screen and (max-width: 320px) {
+   fieldset {
      width: 30%;
      display: inline;
    }
