@@ -1,0 +1,61 @@
+.about-top {
+  background: url(../images/Wood-Texture.jpg) round;
+  border: 2px solid black;
+}
+
+.about-words {
+  margin: auto;
+  backfround-color: #ffffff;
+  text-align: center;
+}
+
+.about-words {
+  margin: 5%;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.about-words h3 {
+  font-size: 3em;
+  font-family: 'Quicksand', 'lucida grande', sans-serif;
+  font-style: normal;
+  font-weight: bolder;
+}
+
+.about-words p {
+  font-size: 1.5em;
+  font-family: 'Quicksand', 'lucida grande', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.polaroid {
+  position: relative;
+
+}
+
+.container {
+  position: relative;
+  font-size: 1em;
+  font-family: 'Quicksand', 'lucida grande', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  color: #ffffff;
+}
+
+.container {
+  border: 2px solid black;
+  background-color: #8b8b8b;
+  padding: .3em;
+}
+
+.polaroid img {
+  width: 40%;
+  height: auto;
+  border: solid 2px black;
+  margin: 4px;
+}
+
+.about-bios {
+  text-align: center;
+}

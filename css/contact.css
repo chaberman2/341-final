@@ -1,0 +1,24 @@
+.contact-info {
+  text-align: center;
+}
+
+.contact-form {
+  font-family: 'Quicksand', 'lucida grande', sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 15pt;
+  color: #E1EDD8;
+}
+
+.contact-specs {
+  font-family: 'Quicksand', 'lucida grande', sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 15pt;
+  color: #E1EDD8;
+}
+
+.social-media img {
+  width: 10%;
+  height: 10%;
+}
